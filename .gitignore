@@ -1,6 +1,6 @@
 #folder
 /Dataset_Split
-/model
+/model/*.joblib
 
 /.gradio
 /flagged
