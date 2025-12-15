@@ -1,3 +1,6 @@
 #folder
 /Dataset_Split
 /model
+
+/.gradio
+/flagged
